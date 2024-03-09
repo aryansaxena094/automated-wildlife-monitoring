@@ -1,3 +1,5 @@
 .idea
-
+.lsp
+.vscode
+.clj-kondo
 Dataset/
