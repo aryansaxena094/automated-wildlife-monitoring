@@ -1,0 +1,2 @@
+# AAIProject
+Applied AI project
