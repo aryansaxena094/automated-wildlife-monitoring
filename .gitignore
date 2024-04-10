@@ -4,4 +4,4 @@
 .clj-kondo
 Dataset/
 .DS_Store
-Aryan/Models/vgg16_best_model.pth
+Aryan/Models/
