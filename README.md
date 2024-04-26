@@ -4,8 +4,8 @@
 This project focuses on developing an automated system for monitoring wildlife in their natural habitats, crucial for conservation strategies. Leveraging camera traps and advanced machine learning techniques, we aim to ease the workload on conservationists by accurately identifying a broad range of species across diverse environments. This initiative not only seeks to minimize costs and reduce human error but also to enhance the protection and tracking of species populations and changes.
 
 ## High level description/presentation of the project
- - This project focuses on developing an automated system for monitoring wildlife in their natural habitats, crucial for conservation strategies. Leveraging camera traps and advanced machine learning techniques, we aim to ease the workload on conservationists by accurately identifying a broad range of species across diverse environments. This initiative not only seeks to minimize costs and reduce human error but also to enhance the protection and tracking of species populations and changes.
- - Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet. Each is chosen for its unique advantages in processing and identifying features within our varied datasets. Through a combination of data preprocessing, feature extraction, and transfer learning, we aim to build models that are highly accurate and efficient in identifying wildlife. 
+- This project focuses on developing an automated system for monitoring wildlife in their natural habitats, crucial for conservation strategies. Leveraging camera traps and advanced machine learning techniques, we aim to ease the workload on conservationists by accurately identifying a broad range of species across diverse environments. This initiative not only seeks to minimize costs and reduce human error but also to enhance the protection and tracking of species populations and changes.
+- Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet. Each is chosen for its unique advantages in processing and identifying features within our varied datasets. Through a combination of data preprocessing, feature extraction, and transfer learning, we aim to build models that are highly accurate and efficient in identifying wildlife. 
  
 ## Requirements                
 •⁠  ⁠matplotlib      
@@ -39,7 +39,6 @@ These datasets provide a robust foundation for training our models, catering to 
 
 ## Methodologies
 Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet. Each is chosen for its unique advantages in processing and identifying features within our varied datasets. Through a combination of data preprocessing, feature extraction, and transfer learning, we aim to build models that are highly accurate and efficient in identifying wildlife.
-
 
 ### Link to Our Github Page
 •⁠  ⁠[Github Page](https://github.com/aryansaxena094/COMP6721-GroupH)
