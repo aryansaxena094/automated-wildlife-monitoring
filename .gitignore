@@ -5,5 +5,5 @@
 Dataset/
 .DS_Store
 Div/Aryan/Models/
-Data/
+# Data/
 .DS_Store
