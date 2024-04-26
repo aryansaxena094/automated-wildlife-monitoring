@@ -8,23 +8,23 @@ This project focuses on developing an automated system for monitoring wildlife i
 - Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet. Each is chosen for its unique advantages in processing and identifying features within our varied datasets. Through a combination of data preprocessing, feature extraction, and transfer learning, we aim to build models that are highly accurate and efficient in identifying wildlife. 
  
 ## Requirements                
-•⁠  ⁠matplotlib      
-•⁠  ⁠numpy               
-•⁠  ⁠sklearn             
-•⁠  ⁠torch              
-•⁠  ⁠torchvision         
-•⁠  ⁠cuda                
-•⁠  ⁠shutil 
-•⁠  ⁠seaborn
-•⁠  ⁠tensorboard        
-•⁠  ⁠time    
+- ⁠matplotlib      
+- ⁠numpy               
+- ⁠sklearn             
+- ⁠torch              
+- ⁠torchvision         
+- ⁠cuda                
+- ⁠shutil 
+- ⁠seaborn
+- ⁠tensorboard        
+- ⁠time    
 
 ## Instruction on how to train/validate the model
-•⁠  ⁠To train and validate the model, we have created multiple .ipynb files for each dataset and each model. The models are saved in the respective folders.
-•⁠  ⁠To train the model, change the location of the dataset in the code or link the kaggle account in your .ipynb files. The dataset for some models need to be loaded into kaggle as they required to be pruned. Run all the blocks under the training section.
+- ⁠To train and validate the model, we have created multiple .ipynb files for each dataset and each model. The models are saved in the respective folders.
+- ⁠To train the model, change the location of the dataset in the code or link the kaggle account in your .ipynb files. The dataset for some models need to be loaded into kaggle as they required to be pruned. Run all the blocks under the training section.
 
 ## Instructions on how to run the test sample on the pretrained model
-•⁠  ⁠User can also run the validation models by running the blocks under validation section in the .ipynb files. Dataloader should be preloaded with the test dataset. The validation accuracy, precision, recall and f1 score would be printed and T-SNE plots would be generated.
+- ⁠User can also run the validation models by running the blocks under validation section in the .ipynb files. Dataloader should be preloaded with the test dataset. The validation accuracy, precision, recall and f1 score would be printed and T-SNE plots would be generated.
 
 
 ## Datasets
@@ -41,7 +41,7 @@ These datasets provide a robust foundation for training our models, catering to 
 Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet. Each is chosen for its unique advantages in processing and identifying features within our varied datasets. Through a combination of data preprocessing, feature extraction, and transfer learning, we aim to build models that are highly accurate and efficient in identifying wildlife.
 
 ### Link to Our Github Page
-•⁠  ⁠[Github Page](https://github.com/aryansaxena094/COMP6721-GroupH)
+- ⁠[Github Page](https://github.com/aryansaxena094/COMP6721-GroupH)
 
 ### Link to presentation
-•⁠  ⁠[Presentation](https://drive.google.com/file/d/1bOpxsvVEDQudKzSqLb6Qoga63ngG2OCC/view?usp=drivesdk)
+- ⁠[Presentation](https://drive.google.com/file/d/1bOpxsvVEDQudKzSqLb6Qoga63ngG2OCC/view?usp=drivesdk)
